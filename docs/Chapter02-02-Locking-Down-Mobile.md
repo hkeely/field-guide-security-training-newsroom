@@ -55,11 +55,11 @@ Split people into groups by device types - instructions will differ for iOS vs A
 
 + set a password or passcode,
 + review lockscreen notification settings,
-+ check for system updates and apply them (or make a plan to apply them later). Note that system updates can sometimes take 20-30 minutes to download and install. In some cases it is more appropriate to
++ check for system updates and apply them (or make a plan to apply them later). Note that system updates can sometimes take 20-30 minutes to download and install. In some cases it might be more appropriate to have everyone check for system updates and commit to actually applying them later.
 
 
 **Trainer notes:**
-For *lock screens,* a strong password is always recommended. A PIN or passcode is an acceptable alternative, but it should be at least 6 digits long. For example, in the US you can be legally compelled to provide your biometrics to unlock a device by a court.
+For *lock screens,* a strong password is always recommended. A PIN or passcode is an acceptable alternative, but it should be at least 6 digits long.
 
 Biometric locking (eg. face or fingerprint recognition) is not recommended, as both are fakeable and do not offer the same degree of legal protection. For example, in the US you can be legally compelled to provide your biometrics to unlock a device by a court.
 
@@ -67,7 +67,7 @@ Android phones offer pattern locking, which is also problematic. It's not as sec
 
 When you tackle *lockscreen notifications* keep in mind that some users may opt to keep convenient but insecure notifications coming for day to day use and change the settings when they're in more vulnerable situations or traveling.
 
-*System Updates* can take 20-30 minutes or more to download and apply. In some cases it migth be more appropriate to have everyone check for system updates and commit to actually applying them later.
+*System Updates* can take 20-30 minutes or more to download and apply. In some cases it might be more appropriate to have everyone check for system updates and commit to actually applying them later.
 
 *Encrypting* a phone's hard drive can take even longer than a system update and this **should not** be undertaken unless the user is 100% confident that their data, settings, and authentication codes are backed up.
 
